@@ -1,0 +1,80 @@
+.blog-image{
+ text-align: left;
+float: right;
+}
+
+/* Assuming your blog image has a class or ID, for example, .blog-image */
+.blog-image {
+    width: 8%; /* You can use a specific value like 500px, 50%, etc. instead of 100% */
+    height: 8%; /* To maintain the aspect ratio and prevent distortion */
+    margin-top: -50px;
+  }
+
+.blog-image1{
+    text-align: left;
+    float: right;
+    width: 8%; /* You can use a specific value like 500px, 50%, etc. instead of 100% */
+    height: 8%; /* To maintain the aspect ratio and prevent distortion */
+    margin-top: -50px
+}
+.Blog-image{
+    float: inline-end;
+    width: 8%; /* You can use a specific value like 500px, 50%, etc. instead of 100% */
+    height: 8%; /* To maintain the aspect ratio and prevent distortion */
+    
+}
+.blog-image2{
+    float: inline-end;
+    width: 8%; /* You can use a specific value like 500px, 50%, etc. instead of 100% */
+    height: 9%; /* To maintain the aspect ratio and prevent distortion */
+    margin-top: -40px;
+}
+.blog-image3{
+    float: inline-end;
+    width: 8%; /* You can use a specific value like 500px, 50%, etc. instead of 100% */
+    height: 9%; /* To maintain the aspect ratio and prevent distortion */
+    margin-top: -40px; 
+
+}
+.blog-image4{
+    float: inline-end;
+    width: 9%; /* You can use a specific value like 500px, 50%, etc. instead of 100% */
+    height: 30%; /* To maintain the aspect ratio and prevent distortion */
+    margin-top: -45px; 
+
+}
+.blog-image5{
+    float: inline-end;
+    width: 9%; /* You can use a specific value like 500px, 50%, etc. instead of 100% */
+    height: 30%; /* To maintain the aspect ratio and prevent distortion */
+    margin-top: -45px; 
+
+}
+.blog-image6{
+    float: inline-end;
+    width: 9%; /* You can use a specific value like 500px, 50%, etc. instead of 100% */
+    height: 30%; /* To maintain the aspect ratio and prevent distortion */
+    margin-top: -45px; 
+}
+.blog-image7{
+    float: inline-end;
+    width: 9%; /* You can use a specific value like 500px, 50%, etc. instead of 100% */
+    height: 30%; /* To maintain the aspect ratio and prevent distortion */
+    margin-top: -45px; 
+}
+.blog-image8{
+    float: inline-end;
+    width: 9%; /* You can use a specific value like 500px, 50%, etc. instead of 100% */
+    height: 30%; /* To maintain the aspect ratio and prevent distortion */
+    margin-top: -45px; 
+}
+body{
+    color:black;
+    background-color: floralwhite;
+}
+h2{
+    color:rgb(16, 15, 15);
+}
+header{
+    color:chocolate;
+}
